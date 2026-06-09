@@ -1,0 +1,21 @@
+.pio/build/esp32/libcf3/FastLED/fl/gamma.cpp.o: \
+ .pio/libdeps/esp32/FastLED/src/fl/gamma.cpp \
+ .pio/libdeps/esp32/FastLED/src/fl/gamma.h \
+ .pio/libdeps/esp32/FastLED/src/crgb.h \
+ .pio/libdeps/esp32/FastLED/src/fl/stdint.h \
+ .pio/libdeps/esp32/FastLED/src/fl/int.h \
+ .pio/libdeps/esp32/FastLED/src/platforms/int.h \
+ .pio/libdeps/esp32/FastLED/src/platforms/arm/is_arm.h \
+ .pio/libdeps/esp32/FastLED/src/platforms/esp/int.h \
+ .pio/libdeps/esp32/FastLED/src/chsv.h \
+ .pio/libdeps/esp32/FastLED/src/fl/hsv.h \
+ .pio/libdeps/esp32/FastLED/src/fl/namespace.h \
+ .pio/libdeps/esp32/FastLED/src/color.h \
+ .pio/libdeps/esp32/FastLED/src/lib8tion/types.h \
+ .pio/libdeps/esp32/FastLED/src/fl/force_inline.h \
+ .pio/libdeps/esp32/FastLED/src/fl/type_traits.h \
+ .pio/libdeps/esp32/FastLED/src/fl/move.h \
+ .pio/libdeps/esp32/FastLED/src/hsv2rgb.h \
+ .pio/libdeps/esp32/FastLED/src/fl/ease.h \
+ .pio/libdeps/esp32/FastLED/src/fastled_progmem.h \
+ .pio/libdeps/esp32/FastLED/src/platforms/null_progmem.h
