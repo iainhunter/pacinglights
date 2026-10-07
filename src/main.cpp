@@ -56,7 +56,7 @@ static CRGB baseColor = CRGB::Green;               // initial colour
 static uint16_t activeLeds = LEDS_PER_SEGMENT * 3; // default 3 segments
 
 // Motion / dot shape
-static constexpr float MARKER_SPACING_M = 2.0f;
+static constexpr float MARKER_SPACING_M = 4.0f;
 static constexpr uint16_t MARKER_SPACING_LEDS =
     (uint16_t)(LEDS_PER_METER * MARKER_SPACING_M + 0.5f);
 static constexpr uint8_t DOT_LENGTH_LEDS = 6;
